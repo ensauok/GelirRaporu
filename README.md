@@ -1,0 +1,1 @@
+Firma ve işletmelerin aylık gelirleri üzerinden yıllık finans gelirlerinin analizi. Firma/İşletmelerin sahip oldukları çeşitli satış yöntemlerinin ayrı ayrı ve toplam satışlarının grafiksel olarak gösterimi sunulmaktadır.
